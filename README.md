@@ -61,3 +61,5 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
 
 
 ## Deploy 
+
+https://heroku.com/deploy?template=https://github.com/flaahokiller/Yui_GBot_BETA
