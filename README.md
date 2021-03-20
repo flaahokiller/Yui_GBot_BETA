@@ -53,24 +53,11 @@ Yui_GBot is a simple one-punch solution to your group management needs and has b
 * Bot Link:  <a href="https://t.me/Yui_GBot" alt="Yui_GBot Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Yui_GBot-blue" /> </a>
 * News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
 
-Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/Yui_GBot?color=white&label=%F0%9F%8C%9F%20star">
-
-## Credits 📍
-* Well, it's all in the commit history 
-Feel free to open pull requests should any be missing.
+Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/Yui_GBot?color=white&label=%F0%9F%8C%9F%20sta
 
 
 
 
 
 
-
-
-
-
-
-
-
-#Deploy 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Deploy 
