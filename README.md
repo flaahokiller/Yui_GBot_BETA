@@ -71,6 +71,6 @@ Feel free to open pull requests should any be missing.
 
 
 
-##Deploy 
+#Deploy 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
