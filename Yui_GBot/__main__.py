@@ -76,12 +76,12 @@ PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
-You can find my list of available commands with /help.
+You can find my list of available commands with /help. and my master is @Wizard_boss
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
+I'm a  anime For Fun and help admins manage their groups with problem! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -100,7 +100,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-Yui_GBot_IMG = "https://telegra.ph/file/46e6d9dfcb3eb9eae95d9.jpg"
+Yui_GBot_IMG = ""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
